@@ -15,3 +15,6 @@ Dependencies:
 `pip3 install pywinauto --user`
 
 I might expand on this functionality a bit, there's quite a lot of room to improve on this. Contributors welcome!
+
+**Usage instructions**
+Put the python script in the folder where you have the documents, and just run it. No frills attached.
