@@ -18,4 +18,10 @@ I might expand on this functionality a bit, there's quite a lot of room to impro
 
 **Usage instructions**
 
-Put the python script in the folder where you have the documents, and just run it. No frills attached.
+**PPT/PPTX to PDF**
+
+Put the python script in the folder where you have the documents, and just run it. No frills.
+
+**JPG/JPEG/PNG to PDF**
+
+`python main.py --jpgpdf <outputfilename>.pdf`
